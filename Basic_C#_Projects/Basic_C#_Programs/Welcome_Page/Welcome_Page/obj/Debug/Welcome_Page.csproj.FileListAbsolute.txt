@@ -1,0 +1,6 @@
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Projects\Basic_C#_Programs\Welcome_Page\Welcome_Page\bin\Debug\Welcome_Page.exe.config
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Projects\Basic_C#_Programs\Welcome_Page\Welcome_Page\bin\Debug\Welcome_Page.exe
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Projects\Basic_C#_Programs\Welcome_Page\Welcome_Page\bin\Debug\Welcome_Page.pdb
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Projects\Basic_C#_Programs\Welcome_Page\Welcome_Page\obj\Debug\Welcome_Page.csproj.CoreCompileInputs.cache
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Projects\Basic_C#_Programs\Welcome_Page\Welcome_Page\obj\Debug\Welcome_Page.exe
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Projects\Basic_C#_Programs\Welcome_Page\Welcome_Page\obj\Debug\Welcome_Page.pdb
