@@ -1,0 +1,7 @@
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Projects\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\VariablesAndDataTypes.exe.config
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Projects\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\VariablesAndDataTypes.exe
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Projects\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\VariablesAndDataTypes.pdb
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Projects\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\VariablesAndDataTypes.csproj.AssemblyReference.cache
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Projects\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\VariablesAndDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Projects\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\VariablesAndDataTypes.exe
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Projects\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\VariablesAndDataTypes.pdb

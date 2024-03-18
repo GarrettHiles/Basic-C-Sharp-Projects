@@ -1,0 +1,7 @@
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Projects\Basic_C#_Programs\DailyReport_Assignment\DailyReport_Assignment\bin\Debug\DailyReport_Assignment.exe.config
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Projects\Basic_C#_Programs\DailyReport_Assignment\DailyReport_Assignment\bin\Debug\DailyReport_Assignment.exe
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Projects\Basic_C#_Programs\DailyReport_Assignment\DailyReport_Assignment\bin\Debug\DailyReport_Assignment.pdb
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Projects\Basic_C#_Programs\DailyReport_Assignment\DailyReport_Assignment\obj\Debug\DailyReport_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Projects\Basic_C#_Programs\DailyReport_Assignment\DailyReport_Assignment\obj\Debug\DailyReport_Assignment.exe
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Projects\Basic_C#_Programs\DailyReport_Assignment\DailyReport_Assignment\obj\Debug\DailyReport_Assignment.pdb
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Projects\Basic_C#_Programs\DailyReport_Assignment\DailyReport_Assignment\obj\Debug\DailyReport_Assignment.csproj.AssemblyReference.cache
