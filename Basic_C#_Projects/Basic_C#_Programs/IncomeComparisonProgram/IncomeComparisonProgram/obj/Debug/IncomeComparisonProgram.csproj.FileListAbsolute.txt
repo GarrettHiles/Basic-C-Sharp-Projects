@@ -1,0 +1,7 @@
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Projects\Basic_C#_Programs\IncomeComparisonProgram\IncomeComparisonProgram\bin\Debug\IncomeComparisonProgram.exe.config
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Projects\Basic_C#_Programs\IncomeComparisonProgram\IncomeComparisonProgram\bin\Debug\IncomeComparisonProgram.exe
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Projects\Basic_C#_Programs\IncomeComparisonProgram\IncomeComparisonProgram\bin\Debug\IncomeComparisonProgram.pdb
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Projects\Basic_C#_Programs\IncomeComparisonProgram\IncomeComparisonProgram\obj\Debug\IncomeComparisonProgram.csproj.AssemblyReference.cache
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Projects\Basic_C#_Programs\IncomeComparisonProgram\IncomeComparisonProgram\obj\Debug\IncomeComparisonProgram.csproj.CoreCompileInputs.cache
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Projects\Basic_C#_Programs\IncomeComparisonProgram\IncomeComparisonProgram\obj\Debug\IncomeComparisonProgram.exe
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Projects\Basic_C#_Programs\IncomeComparisonProgram\IncomeComparisonProgram\obj\Debug\IncomeComparisonProgram.pdb
