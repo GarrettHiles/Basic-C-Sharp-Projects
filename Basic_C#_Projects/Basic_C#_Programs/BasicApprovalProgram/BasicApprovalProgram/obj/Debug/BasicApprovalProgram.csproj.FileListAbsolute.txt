@@ -1,0 +1,7 @@
+C:\Users\Garrett Hiles\source\repos\BasicApprovalProgram\BasicApprovalProgram\bin\Debug\BasicApprovalProgram.exe.config
+C:\Users\Garrett Hiles\source\repos\BasicApprovalProgram\BasicApprovalProgram\bin\Debug\BasicApprovalProgram.exe
+C:\Users\Garrett Hiles\source\repos\BasicApprovalProgram\BasicApprovalProgram\bin\Debug\BasicApprovalProgram.pdb
+C:\Users\Garrett Hiles\source\repos\BasicApprovalProgram\BasicApprovalProgram\obj\Debug\BasicApprovalProgram.csproj.AssemblyReference.cache
+C:\Users\Garrett Hiles\source\repos\BasicApprovalProgram\BasicApprovalProgram\obj\Debug\BasicApprovalProgram.csproj.CoreCompileInputs.cache
+C:\Users\Garrett Hiles\source\repos\BasicApprovalProgram\BasicApprovalProgram\obj\Debug\BasicApprovalProgram.exe
+C:\Users\Garrett Hiles\source\repos\BasicApprovalProgram\BasicApprovalProgram\obj\Debug\BasicApprovalProgram.pdb
