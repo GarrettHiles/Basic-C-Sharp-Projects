@@ -1,0 +1,7 @@
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Projects\Basic_C#_Programs\BranchingShippingQuote\BranchingShippingQuote\bin\Debug\BranchingShippingQuote.exe.config
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Projects\Basic_C#_Programs\BranchingShippingQuote\BranchingShippingQuote\bin\Debug\BranchingShippingQuote.exe
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Projects\Basic_C#_Programs\BranchingShippingQuote\BranchingShippingQuote\bin\Debug\BranchingShippingQuote.pdb
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Projects\Basic_C#_Programs\BranchingShippingQuote\BranchingShippingQuote\obj\Debug\BranchingShippingQuote.csproj.AssemblyReference.cache
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Projects\Basic_C#_Programs\BranchingShippingQuote\BranchingShippingQuote\obj\Debug\BranchingShippingQuote.csproj.CoreCompileInputs.cache
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Projects\Basic_C#_Programs\BranchingShippingQuote\BranchingShippingQuote\obj\Debug\BranchingShippingQuote.exe
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Projects\Basic_C#_Programs\BranchingShippingQuote\BranchingShippingQuote\obj\Debug\BranchingShippingQuote.pdb
