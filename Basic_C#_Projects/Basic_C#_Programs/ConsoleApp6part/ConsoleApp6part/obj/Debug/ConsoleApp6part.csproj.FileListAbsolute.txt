@@ -1,0 +1,7 @@
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Projects\Basic_C#_Programs\ConsoleApp6part\ConsoleApp6part\bin\Debug\ConsoleApp6part.exe.config
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Projects\Basic_C#_Programs\ConsoleApp6part\ConsoleApp6part\bin\Debug\ConsoleApp6part.exe
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Projects\Basic_C#_Programs\ConsoleApp6part\ConsoleApp6part\bin\Debug\ConsoleApp6part.pdb
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Projects\Basic_C#_Programs\ConsoleApp6part\ConsoleApp6part\obj\Debug\ConsoleApp6part.csproj.AssemblyReference.cache
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Projects\Basic_C#_Programs\ConsoleApp6part\ConsoleApp6part\obj\Debug\ConsoleApp6part.csproj.CoreCompileInputs.cache
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Projects\Basic_C#_Programs\ConsoleApp6part\ConsoleApp6part\obj\Debug\ConsoleApp6part.exe
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Projects\Basic_C#_Programs\ConsoleApp6part\ConsoleApp6part\obj\Debug\ConsoleApp6part.pdb
