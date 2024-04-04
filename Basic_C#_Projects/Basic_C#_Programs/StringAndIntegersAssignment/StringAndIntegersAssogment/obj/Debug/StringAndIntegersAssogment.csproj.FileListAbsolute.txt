@@ -1,0 +1,7 @@
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Projects\Basic_C#_Programs\StringAndIntegersAssogment\StringAndIntegersAssogment\bin\Debug\StringAndIntegersAssogment.exe.config
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Projects\Basic_C#_Programs\StringAndIntegersAssogment\StringAndIntegersAssogment\bin\Debug\StringAndIntegersAssogment.exe
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Projects\Basic_C#_Programs\StringAndIntegersAssogment\StringAndIntegersAssogment\bin\Debug\StringAndIntegersAssogment.pdb
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Projects\Basic_C#_Programs\StringAndIntegersAssogment\StringAndIntegersAssogment\obj\Debug\StringAndIntegersAssogment.csproj.AssemblyReference.cache
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Projects\Basic_C#_Programs\StringAndIntegersAssogment\StringAndIntegersAssogment\obj\Debug\StringAndIntegersAssogment.csproj.CoreCompileInputs.cache
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Projects\Basic_C#_Programs\StringAndIntegersAssogment\StringAndIntegersAssogment\obj\Debug\StringAndIntegersAssogment.exe
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Projects\Basic_C#_Programs\StringAndIntegersAssogment\StringAndIntegersAssogment\obj\Debug\StringAndIntegersAssogment.pdb
