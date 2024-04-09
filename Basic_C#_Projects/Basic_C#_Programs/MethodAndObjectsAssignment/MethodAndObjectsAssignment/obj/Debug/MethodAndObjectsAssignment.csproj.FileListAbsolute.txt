@@ -1,0 +1,6 @@
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Projects\Basic_C#_Programs\MethodAndObjectsAssignment\MethodAndObjectsAssignment\bin\Debug\MethodAndObjectsAssignment.exe.config
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Projects\Basic_C#_Programs\MethodAndObjectsAssignment\MethodAndObjectsAssignment\bin\Debug\MethodAndObjectsAssignment.exe
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Projects\Basic_C#_Programs\MethodAndObjectsAssignment\MethodAndObjectsAssignment\bin\Debug\MethodAndObjectsAssignment.pdb
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Projects\Basic_C#_Programs\MethodAndObjectsAssignment\MethodAndObjectsAssignment\obj\Debug\MethodAndObjectsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Projects\Basic_C#_Programs\MethodAndObjectsAssignment\MethodAndObjectsAssignment\obj\Debug\MethodAndObjectsAssignment.exe
+C:\Users\Garrett Hiles\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Projects\Basic_C#_Programs\MethodAndObjectsAssignment\MethodAndObjectsAssignment\obj\Debug\MethodAndObjectsAssignment.pdb
