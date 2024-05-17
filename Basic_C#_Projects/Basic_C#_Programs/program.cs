@@ -1,11 +1,15 @@
-using System;
-
-class Program
+namespace FinalChallengeAssignmenttry2
 {
-	static void Main()
-	{
-		Console.WriteLine("Hello, World!");
-	}
-
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            using (var ctx = new SchoolContext())
+            {
+                var stud = new Student() { StudentName = "Billy" };
+                ctx.Students.Add(stud); 
+                ctx.SaveChanges();
+            }
+        }
+    }
 }
-
